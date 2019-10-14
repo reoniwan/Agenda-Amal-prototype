@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AgendaKu</string>
+    <string name="pantis_name">Nama Panti Asuhan</string>
+    <string name="address">Alamat Panti</string>
+    <string name="detail">Detail Panti</string>
+    <string name="developer">Nama Developer</string>
+    <string name="email">Email Developer</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="kunjungi">Kunjungi</string>
+    <string name="donasi">Donasi</string>
+</resources>
